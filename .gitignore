@@ -1,1 +1,6 @@
 node_modules/
+
+.env
+
+*.mp3
+!looking for service advisor.mp3
